@@ -1,1 +1,1 @@
-# KomputasiIntelegensiTasks
+# KomputasiIntelegensiaTasks
